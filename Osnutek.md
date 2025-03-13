@@ -43,8 +43,8 @@ Analiza bo pripomogla k boljšemu razumevanju gibanja cen dobrin v Sloveniji ter
 Takšna raziskava bo koristna tako za potrošnike, ki želijo razumeti, kako se spreminjajo cene, kot tudi za podjetja in analitike, ki spremljajo gospodarske trende in določajo strategije cenovne politike.
 
 Člani projektne skupine:
-Gregor Vidrih
-Domen Mramor
-Jerner Globočnik
-Tim Marguč
+Gregor Vidrih,
+Domen Mramor,
+Jernej Globočnik,
+Tim Marguč,
 Nik Šurina
