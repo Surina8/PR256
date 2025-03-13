@@ -41,3 +41,10 @@ Grafični prikazi in vizualizacije: prikazi trendov gibanja cen skozi čas.
 
 Analiza bo pripomogla k boljšemu razumevanju gibanja cen dobrin v Sloveniji ter vpliva različnih dejavnikov na te spremembe. Poleg tega bo omogočila vpogled v razlike med spletnimi in fizičnimi trgovinami ter v vlogo digitalizacije pri določanju cen.
 Takšna raziskava bo koristna tako za potrošnike, ki želijo razumeti, kako se spreminjajo cene, kot tudi za podjetja in analitike, ki spremljajo gospodarske trende in določajo strategije cenovne politike.
+
+Člani projektne skupine:
+Gregor Vidrih
+Domen Mramor
+Jerner Globočnik
+Tim Marguč
+Nik Šurina
