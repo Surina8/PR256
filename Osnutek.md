@@ -31,6 +31,7 @@ Portal Ceneje.si – zbiranje podatkov o trenutnih cenah izdelkov različnih kat
 Statistični urad RS (SURS) – zgodovinski podatki o povprečnih cenah dobrin in inflaciji v Sloveniji.
 Banka Slovenije – makroekonomski podatki o inflaciji, kupni moči in gospodarski rasti.
 Spletne trgovine – primerjava cen med različnimi prodajalci.
+Portal VsiKatalogi.si – zbiranje in primerjava aktualnih in preteklih katalogov, letakov in akcijskih ponudb različnih trgovcev v Sloveniji. Omogoča pregled cen izdelkov v različnih trgovinah in spremljanje popustov ter posebnih akcij.
 
 Podatki bodo v več oblikah:
 
