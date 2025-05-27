@@ -91,14 +91,14 @@ ID;Store;Date;Price (€);Product Name
 95;Spar;2024-08-27;2.25;Piščančji mleti file bederik 400g
 96;Spar;2024-08-27;1.4;Slovenska jabolka elstar 1kg
 97;Spar;2024-08-27;2.99;Slovenski mladi krompir
-99;Spar;;0.89;Banane 1kg
-100;Spar;;1.69;Paprika babura 1kg
+99;Spar;2024-08-27;0.89;Banane 1kg
+100;Spar;2024-08-27;1.69;Paprika babura 1kg
 101;Spar;2024-08-13;4.99;Piščančji file 1kg
 102;Spar;2024-08-13;1.49;Breskve 1kg
 103;Spar;2024-08-13;1.69;Slovenski paradižnik v grozdu 1kg
-104;Spar;;2.25;Mleti piščančji file bederik 40 400g
-105;Spar;;1.49;Nektarine 1kg
-106;Spar;;1.19;Paradižnik grapolo 1kg
+104;Spar;2024-08-13;2.25;Mleti piščančji file bederik 40 400g
+105;Spar;2024-08-13;1.49;Nektarine 1kg
+106;Spar;2024-08-13;1.19;Paradižnik grapolo 1kg
 107;Spar;2024-07-30;2.99;Piščančji zrezki pakirano 480g
 108;Spar;2024-07-30;2.19;Paradižnik v grozdu lušt 1kg
 109;Spar;2024-07-30;1.49;Breskve 1kg
@@ -143,7 +143,7 @@ ID;Store;Date;Price (€);Product Name
 155;Mercator;2024-04-23;2.99;Mleto mešano meso mercator 450g
 156;Mercator;2024-04-23;1.59;Ananas 1kg
 157;Mercator;2024-04-23;4.69;Sir edamec 800g
-158;Mercator;16.04.204.;4.99;Piščančji zrezki iz fileja pp natur 450g perutnina ptuj
+158;Mercator;2024-04-01;4.99;Piščančji zrezki iz fileja pp natur 450g perutnina ptuj
 160;Spar;2024-04-16;0.99;Banane 1kg
 161;Mercator;2024-04-09;3.99;Perutninsko mleto meso pp natur pakirano 600g perutnina ptuj
 162;Mercator;2024-04-09;1.19;Mango cena za kos
@@ -154,8 +154,8 @@ ID;Store;Date;Price (€);Product Name
 168;Mercator;2024-03-26;0.99;Brokoli pakiran 500g
 170;Mercator;2024-03-19;1.99;Pipčančje hrenovke coctail mercator pakirane 500g
 171;Mercator;2024-03-19;0.99;Avokado kos
-174;Spar;;1.79;Pomaranče pakirano 2kg
-175;Spar;;0.99;Pecivo ptiček pakirano 50g slastno pecivo za gregorjevo
+174;Spar;2024-03-19;1.79;Pomaranče pakirano 2kg
+175;Spar;2024-03-19;0.99;Pecivo ptiček pakirano 50g slastno pecivo za gregorjevo
 176;Mercator;2024-03-12;3.99;Piščančji file pp natur pakiran 400g
 177;Mercator;2024-03-12;2.29;Namizno rdeče grozdje pakirano 500g
 178;Mercator;2024-03-12;3.15;Skuta mercator nepasirana 1kg
@@ -165,7 +165,7 @@ ID;Store;Date;Price (€);Product Name
 183;Spar;2024-02-27;1.29;Pomaranče natalia 1kg
 185;Mercator;2024-02-27;1.39;Avokado kos
 186;Mercator;2024-02-27;1.19;Panirani zvitek
-187;Mercator;;3.99;Piščančji file pp natur mala mišica izabrana kakovost pakiran 400g
+187;Mercator;2024-02-27;3.99;Piščančji file pp natur mala mišica izabrana kakovost pakiran 400g
 189;Spar;2024-02-20;1.49;Mandarine 1kg
 190;Spar;2024-02-13;0.99;Banane 1kg
 192;Mercator;2024-02-14;3.99;Piščančja bedra zrezki pp natur 500g
@@ -178,9 +178,9 @@ ID;Store;Date;Price (€);Product Name
 201;Mercator;2024-01-23;2.29;Cvetača cena za kos
 203;Mercator;2024-01-09;2.49;Belo grozdje pakirano 500g
 204;Mercator;2024-01-09;3.19;Puranje mleto meso vindon 500g
-206;Mercator;12.12.2023..;4.79;Puranji zrezki iz fileja pp natur pakirani 400g perutnina ptuj
-207;Mercator;12.12.2023..;1.99;Granatno jabolko 1kg
-208;Mercator;12.12.2023..;1.79;Jadranske sardele adria zamrznjene 1kg
+206;Mercator;2023-12-12;4.79;Puranji zrezki iz fileja pp natur pakirani 400g perutnina ptuj
+207;Mercator;2023-12-12;1.99;Granatno jabolko 1kg
+208;Mercator;2023-12-12;1.79;Jadranske sardele adria zamrznjene 1kg
 209;Mercator;2023-12-05;3.99;Čevapčiči v lepinji postreženi cena za kost
 210;Mercator;2023-12-05;1.69;Brokoli pakiran 500g cena za kos
 211;Mercator;2023-12-05;2.99;Mleto perutninsko meso pp natur pakirano 450g perutnina ptuj
@@ -196,10 +196,10 @@ ID;Store;Date;Price (€);Product Name
 223;Mercator;2023-10-24;3.99;Goveje mleto meso z’dežele 500g
 224;Mercator;2023-10-24;1.99;Rdeče grenivke 1kg
 225;Mercator;2023-10-24;2.19;Kruh krjavel
-226;Mercator;;1.99;Kivi 1kg
-227;Mercator;;2.39;Piščančje hrenovke mercator pakirane 800g
-228;Mercator;;2.09;Sendvič z mozzarelo minure 290g
-229;Mercator;;2.09;Tortilja wrap minute 150g
+226;Mercator;2023-10-24;1.99;Kivi 1kg
+227;Mercator;2023-10-24;2.39;Piščančje hrenovke mercator pakirane 800g
+228;Mercator;2023-10-24;2.09;Sendvič z mozzarelo minure 290g
+229;Mercator;2023-10-24;2.09;Tortilja wrap minute 150g
 230;Lidl;2023-09-27;4.99;Ramstek žar legende mesnine štajerske 300g
 231;Lidl;2023-09-27;2.39;Žar legende meso kamnik s hamburško slanino 400g
 232;Lidl;2023-09-27;1.19;Dulano piščančje prsi več vrst 80g
@@ -336,16 +336,16 @@ ID;Store;Date;Price (€);Product Name
 378;Lidl;2023-03-15;1.79;Nagelj
 379;Lidl;2023-03-15;1.99;Okrasno grmičevje
 380;Spar;2023-03-14;1.19;Banane
-381;Lidl;8. 3. 2023;3.49;Piščančje krače 500 g za
-383;Lidl;8. 3. 2023;4.79;Telečji zrezki 350 g za
-384;Lidl;8. 3. 2023;3.49;Gurmanske pleskavice s hamburško slanino 480 g za
-386;Lidl;8. 3. 2023;1.19;Pak choi
-387;Lidl;8. 3. 2023;0.69;Redkvice 300 g za
-388;Lidl;8. 3. 2023;1.79;Temno grozdje
-389;Lidl;8. 3. 2023;2.99;Bio ingver
-390;Lidl;8. 3. 2023;1.69;Mini sekulenti
-391;Lidl;8. 3. 2023;2.99;Kalanhoja
-392;Lidl;8. 3. 2023;0.79;Primula
+381;Lidl;2023-03-08;3.49;Piščančje krače 500 g za
+383;Lidl;2023-03-08;4.79;Telečji zrezki 350 g za
+384;Lidl;2023-03-08;3.49;Gurmanske pleskavice s hamburško slanino 480 g za
+386;Lidl;2023-03-08;1.19;Pak choi
+387;Lidl;2023-03-08;0.69;Redkvice 300 g za
+388;Lidl;2023-03-08;1.79;Temno grozdje
+389;Lidl;2023-03-08;2.99;Bio ingver
+390;Lidl;2023-03-08;1.69;Mini sekulenti
+391;Lidl;2023-03-08;2.99;Kalanhoja
+392;Lidl;2023-03-08;0.79;Primula
 394;Spar;2023-03-07;0.89;Slovenska jabolka idared
 396;Lidl;2023-03-01;4.99;Filet de mignon 200 g za
 397;Lidl;2023-03-01;1.99;Skutin burek
@@ -412,7 +412,7 @@ ID;Store;Date;Price (€);Product Name
 464;Lidl;2023-01-25;2.99;Kakteja
 465;Lidl;2023-01-25;1.99;Sobna primula
 466;Lidl;2023-01-25;1.99;Krizanteme
-467;Spar;24. 1. 2023;1.29;Pomaranče natalia
+467;Spar;2023-01-24;1.29;Pomaranče natalia
 469;Lidl;2023-01-18;3.99;Zrezki divjega prašiča 300 g za
 470;Lidl;2023-01-18;2.79;Piščančji zrezki/mini fileji 350 g za
 471;Lidl;2023-01-18;2.39;Odščipanci meso kamnik 400 g za
@@ -742,12 +742,12 @@ ID;Store;Date;Price (€);Product Name
 834;Lidl;2022-08-24;3.49;Mesojede rastline
 835;Lidl;2022-08-24;0.99;Hebe
 836;Lidl;2022-08-24;3.99;Kalateja
-837;Mercator;;1.59;Limone
-838;Mercator;;1.39;Nektar happy day
-839;Mercator;;2.49;Mini rolade gorenjka
-840;Mercator;;1.29;Jajčevci
-841;Mercator;;4.49;Piščančji kebab ražnjiči pp piknik 450 g za
-842;Mercator;;2.69;Piščančja bedra pp natur 440 g za
+837;Mercator;2022-08-19;1.59;Limone
+838;Mercator;2022-08-19;1.39;Nektar happy day
+839;Mercator;2022-08-19;2.49;Mini rolade gorenjka
+840;Mercator;2022-08-19;1.29;Jajčevci
+841;Mercator;2022-08-19;4.49;Piščančji kebab ražnjiči pp piknik 450 g za
+842;Mercator;2022-08-19;2.69;Piščančja bedra pp natur 440 g za
 843;Lidl;2022-08-17;1.69;Piščančje peruti 400 g za
 844;Lidl;2022-08-17;2.79;Piščančja stegna in krače 500 g za
 845;Lidl;2022-08-17;3.99;Sveža svinjska krača
@@ -1138,8 +1138,8 @@ ID;Store;Date;Price (€);Product Name
 1277;Mercator;2022-02-16;1.09;Limone
 1278;Mercator;2022-02-16;2.99;Jagode pakirano po 450 g za
 1279;Mercator;2022-02-16;1.59;Paprika kozji rog
-1281;Mercator;;1.29;Por
-1282;Mercator;;1.99;Pomelo
+1281;Mercator;2022-02-14;1.29;Por
+1282;Mercator;2022-02-14;1.99;Pomelo
 1283;Mercator;2022-02-02;1.64;Kava franck 200 g za
 1284;Mercator;2022-02-02;1.14;Napolitanke podravka
 1285;Mercator;2022-02-02;1.29;Cvetača
@@ -1286,10 +1286,10 @@ ID;Store;Date;Price (€);Product Name
 1444;Mercator;2021-08-11;1.99;Jogurt na grški način 1 kg za
 1446;Mercator;2021-08-11;1.67;Flips smoki 250 g za
 1447;Mercator;2021-08-11;0.86;Pijača pepsi
-1448;Mercator;4.8. 2021;0.95;Keksi plazma 150 g za
-1449;Mercator;4.8. 2021;0.79;Jogurt mercator 300 g za
-1450;Mercator;4.8. 2021;1.29;Nektar bravo pomaranča 2l za
-1451;Mercator;4.8. 2021;4.15;Kava loka 500 g + 100 g
+1448;Mercator;2021-08-03;0.95;Keksi plazma 150 g za
+1449;Mercator;2021-08-03;0.79;Jogurt mercator 300 g za
+1450;Mercator;2021-08-03;1.29;Nektar bravo pomaranča 2l za
+1451;Mercator;2021-08-03;4.15;Kava loka 500 g + 100 g
 1452;Mercator;2021-07-28;0.89;Alpsko mleko
 1453;Mercator;2021-07-28;1.17;Napolitanke frondi
 1454;Mercator;2021-07-28;1.12;Kava barcaffe 100 g za
@@ -3668,17 +3668,17 @@ ID;Store;Date;Price (€);Product Name
 3980;Lidl;2015-10-21;0.19;Štručka s semeni
 3981;Lidl;2015-10-21;1.19;Jajčevec
 3982;Lidl;2015-10-21;1.19;Mango
-3983;Hofer;;0.25;Kivi
-3984;Hofer;;0.35;Osvežilna pijača
-3985;Hofer;;2.59;Merlot
-3986;Hofer;;0.99;Rdeča podolgovata paprika
-3987;Hofer;;1.39;Hrustljavi kosmiči
-3988;Hofer;;0.99;Tirolska / ljubljanska salama
-3989;Hofer;;1.99;Sirni narezek
-3990;Hofer;;0.49;Jajčevec
-3991;Hofer;;1.19;Mini čokoladni poljubčki
-3992;Hofer;;1.99;Bio sadna rezina
-3994;Hofer;;0.29;Aroma limone/limete
+3983;Hofer;2015-10-18;0.25;Kivi
+3984;Hofer;2015-10-18;0.35;Osvežilna pijača
+3985;Hofer;2015-10-18;2.59;Merlot
+3986;Hofer;2015-10-18;0.99;Rdeča podolgovata paprika
+3987;Hofer;2015-10-18;1.39;Hrustljavi kosmiči
+3988;Hofer;2015-10-18;0.99;Tirolska / ljubljanska salama
+3989;Hofer;2015-10-18;1.99;Sirni narezek
+3990;Hofer;2015-10-18;0.49;Jajčevec
+3991;Hofer;2015-10-18;1.19;Mini čokoladni poljubčki
+3992;Hofer;2015-10-18;1.99;Bio sadna rezina
+3994;Hofer;2015-10-18;0.29;Aroma limone/limete
 3995;Hofer;2015-10-14;0.79;Ingver 200 g za
 3996;Hofer;2015-10-14;4.49;Bio zamrznjene garnele
 3997;Hofer;2015-10-14;3.99;Grande alberone
