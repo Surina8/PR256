@@ -4,6 +4,8 @@ import streamlit as st
 from analysis import time_analysis, store_analysis, category_analysis, data_mining_analysis
 from components import sidebar_filters, display_metrics
 from data_loader import load_and_process_data
+from analysis import plot_average_price_trend, plot_store_venn, plot_store_price_trends
+
 
 def main() -> None:
     # Config
@@ -33,8 +35,11 @@ def main() -> None:
         with tab1:
             time_analysis(filtered_df)
 
+
         with tab2:
             store_analysis(filtered_df)
+            plot_store_venn(filtered_df)           # Add this for Venn diagram
+            plot_store_price_trends(filtered_df) 
 
         with tab3:
             category_analysis(filtered_df)
